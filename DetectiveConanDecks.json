@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Heroes of Justice",
+    "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+    "game": "Detective Conan",
+    "format": "Classic",
+    "cardCount": 60,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "lastModifiedAt": "2024-01-01T00:00:00.000Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Character",
+        "Item - Gadget",
+        "Item",
+        "Supporter",
+        "Location",
+        "Technique",
+        "Technique - Special"
+      ],
+      "Character": [
+        { "count": 4, "id": "conan-01" },
+        { "count": 2, "id": "shinichi-01" },
+        { "count": 3, "id": "ran-01" },
+        { "count": 1, "id": "ran-02" },
+        { "count": 2, "id": "heiji-01" },
+        { "count": 2, "id": "haibara-01" },
+        { "count": 1, "id": "haibara-02" },
+        { "count": 2, "id": "kogoro-01" },
+        { "count": 1, "id": "megure-01" },
+        { "count": 1, "id": "akai-01" },
+        { "count": 1, "id": "kid-01" }
+      ],
+      "Item - Gadget": [
+        { "count": 4, "id": "gadget-skateboard" },
+        { "count": 4, "id": "gadget-wristwatch" },
+        { "count": 3, "id": "gadget-bowtie" },
+        { "count": 2, "id": "gadget-badge" }
+      ],
+      "Item": [
+        { "count": 4, "id": "item-antidote" },
+        { "count": 3, "id": "item-soccerball" }
+      ],
+      "Supporter": [
+        { "count": 4, "id": "supporter-deduction" },
+        { "count": 3, "id": "supporter-invention" },
+        { "count": 2, "id": "supporter-karate" },
+        { "count": 1, "id": "supporter-police" }
+      ],
+      "Location": [
+        { "count": 2, "id": "location-teitan" },
+        { "count": 2, "id": "location-agency" }
+      ],
+      "Technique": [
+        { "count": 6, "id": "technique-deduction" },
+        { "count": 4, "id": "technique-martial" },
+        { "count": 2, "id": "technique-science" }
+      ],
+      "Technique - Special": [
+        { "count": 2, "id": "technique-special-aptx" }
+      ]
+    }
+  },
+  {
+    "title": "Black Organization",
+    "id": "b2c3d4e5-f6a7-8901-bcde-f23456789012",
+    "game": "Detective Conan",
+    "format": "Classic",
+    "cardCount": 60,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "lastModifiedAt": "2024-01-01T00:00:00.000Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Character",
+        "Item - Gadget",
+        "Item",
+        "Supporter",
+        "Location",
+        "Technique",
+        "Technique - Special"
+      ],
+      "Character": [
+        { "count": 4, "id": "gin-01" },
+        { "count": 4, "id": "vodka-01" },
+        { "count": 3, "id": "vermouth-01" },
+        { "count": 3, "id": "chianti-01" },
+        { "count": 3, "id": "korn-01" },
+        { "count": 1, "id": "kid-01" }
+      ],
+      "Item - Gadget": [
+        { "count": 3, "id": "gadget-glasses" },
+        { "count": 3, "id": "gadget-shoes" }
+      ],
+      "Item": [
+        { "count": 4, "id": "item-sleeping-powder" },
+        { "count": 4, "id": "item-smoke-bomb" },
+        { "count": 3, "id": "item-org-file" }
+      ],
+      "Supporter": [
+        { "count": 4, "id": "supporter-org-intel" },
+        { "count": 3, "id": "supporter-police" },
+        { "count": 2, "id": "supporter-deduction" }
+      ],
+      "Location": [
+        { "count": 2, "id": "location-bell-tree" },
+        { "count": 2, "id": "location-tropical" }
+      ],
+      "Technique": [
+        { "count": 6, "id": "technique-criminal" },
+        { "count": 6, "id": "technique-agent" }
+      ],
+      "Technique - Special": [
+        { "count": 2, "id": "technique-special-disguise" }
+      ]
+    }
+  }
+]

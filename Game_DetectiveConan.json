@@ -1,0 +1,359 @@
+{
+  "name": "Detective Conan",
+  "menuBackgroundImage": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/1.jpg",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/1.jpg",
+      "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/2.jpg",
+      "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/3.jpg"
+    ],
+    "decksUrl": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/DetectiveConanDecks.json"
+  },
+  "customHelp": "Place your Partner card in the Partner zone, then build your Field with Characters. Play a Case card to the Case zone. Accumulate Evidence by winning Contacts. When you have enough Evidence equal to the Case Level during the Deduction Phase, declare Case Solved to win!",
+  "cards": {
+    "dataUrl": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/DetectiveConanCards.json",
+    "cardBack": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/CardBack.jpg"
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "type",
+      "ap",
+      "lp",
+      "color"
+    ],
+    "formats": [
+      {
+        "title": "Classic",
+        "gameplay": "Classic",
+        "customCategories": []
+      }
+    ],
+    "deckRulesets": {
+      "Classic": {
+        "checkCardLegality": false,
+        "general": {
+          "min": 50,
+          "max": 50,
+          "maxPerCard": 4
+        },
+        "categories": [
+          {
+            "category": "Partner - Blue",
+            "min": 0,
+            "max": 1
+          },
+          {
+            "category": "Partner - Green",
+            "min": 0,
+            "max": 1
+          },
+          {
+            "category": "Partner - White",
+            "min": 0,
+            "max": 1
+          },
+          {
+            "category": "Partner - Red",
+            "min": 0,
+            "max": 1
+          },
+          {
+            "category": "Partner - Yellow",
+            "min": 0,
+            "max": 1
+          },
+          {
+            "category": "Partner - Black",
+            "min": 0,
+            "max": 1
+          }
+        ]
+      }
+    }
+  },
+  "gameplay": {
+    "Classic": {
+      "mulligan": {
+        "info": "If you have no Character or Partner card in your starting hand, you may reveal your hand and draw a new hand of 5 cards.",
+        "startingHandSize": 5,
+        "mulliganCycle": {
+          "selectionRange": {
+            "min": 5
+          },
+          "steps": ["reveal", "toTop", "shuffle", "draw"]
+        }
+      },
+      "beforeGameStart": {
+        "initialBoardSetup": [
+          {
+            "drawFromTop": "deck",
+            "count": 3,
+            "destination": "Evidence_1"
+          },
+          {
+            "drawFromTop": "deck",
+            "count": 3,
+            "destination": "Evidence_2"
+          }
+        ]
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": 1
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "draggableTokens": [
+        {
+          "id": "Evidence",
+          "name": "Evidence token",
+          "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/Tokens/Evidence.png"
+        },
+        {
+          "id": "Sleep",
+          "name": "Sleep (Tapped)",
+          "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/Tokens/Sleep.png"
+        },
+        {
+          "id": "CutIn",
+          "name": "Cut-In",
+          "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/Tokens/CutIn.png"
+        },
+        {
+          "id": "Bond",
+          "name": "Bond",
+          "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/Tokens/Bond.png"
+        },
+        {
+          "id": "KO",
+          "name": "Removed (KO)",
+          "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/Tokens/KO.png"
+        }
+      ],
+      "countersStartingValues": [
+        0
+      ],
+      "hideFacedDownCards": true,
+      "sections": {
+        "customSections": [
+          "Partner",
+          "Field",
+          "Case",
+          "Evidence_1",
+          "Evidence_2"
+        ],
+        "layout": {
+          "direction": "row",
+          "isSymetricalForOpponents": true,
+          "content": [
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Case",
+                      "style": {
+                        "width": "15vh"
+                      }
+                    },
+                    {
+                      "section": "Partner",
+                      "style": {
+                        "marginRight": "20vh",
+                        "marginLeft": "5vh"
+                      }
+                    }
+                  ],
+                  "isSymetricalForOpponents": true
+                },
+                {
+                  "section": "Field",
+                  "style": {
+                    "marginTop": "0.35rem"
+                  }
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": {
+                "width": "22vh",
+                "justifyContent": "start"
+              },
+              "content": [
+                {
+                  "section": "Evidence_1",
+                  "style": false
+                },
+                {
+                  "section": "Evidence_2",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [],
+        "autoPlayFromHand": {
+          "Case": "Case",
+          "Case - Black": "Case",
+          "Case - Blue": "Case",
+          "Case - Blue, Black": "Case",
+          "Case - Green": "Case",
+          "Case - Green, Black": "Case",
+          "Case - Green, Red": "Case",
+          "Case - Green, White": "Case",
+          "Case - Green, Yellow": "Case",
+          "Case - Multi": "Case",
+          "Case - Red": "Case",
+          "Case - Red, Black": "Case",
+          "Case - White": "Case",
+          "Case - White, Black": "Case",
+          "Case - Yellow": "Case",
+          "Case - Yellow, Black": "Case",
+          "Character - Black": "Field",
+          "Character - Blue": "Field",
+          "Character - Green": "Field",
+          "Character - Multi": "Field",
+          "Character - Red": "Field",
+          "Character - White": "Field",
+          "Character - Yellow": "Field",
+          "Event - Black": "Stack",
+          "Event - Blue": "Stack",
+          "Event - Green": "Stack",
+          "Event - Red": "Stack",
+          "Event - White": "Stack",
+          "Event - Yellow": "Stack",
+          "Partner - Black": "Partner",
+          "Partner - Blue": "Partner",
+          "Partner - Green": "Partner",
+          "Partner - Red": "Partner",
+          "Partner - White": "Partner",
+          "Partner - Yellow": "Partner"
+        },
+        "autoPlayFromStack": {
+          "Case": "Discard",
+          "Case - Black": "Discard",
+          "Case - Blue": "Discard",
+          "Case - Blue, Black": "Discard",
+          "Case - Green": "Discard",
+          "Case - Green, Black": "Discard",
+          "Case - Green, Red": "Discard",
+          "Case - Green, White": "Discard",
+          "Case - Green, Yellow": "Discard",
+          "Case - Multi": "Discard",
+          "Case - Red": "Discard",
+          "Case - Red, Black": "Discard",
+          "Case - White": "Discard",
+          "Case - White, Black": "Discard",
+          "Case - Yellow": "Discard",
+          "Case - Yellow, Black": "Discard",
+          "Character - Black": "Field",
+          "Character - Blue": "Field",
+          "Character - Green": "Field",
+          "Character - Multi": "Field",
+          "Character - Red": "Field",
+          "Character - White": "Field",
+          "Character - Yellow": "Field",
+          "Event - Black": "Discard",
+          "Event - Blue": "Discard",
+          "Event - Green": "Discard",
+          "Event - Red": "Discard",
+          "Event - White": "Discard",
+          "Event - Yellow": "Discard",
+          "Partner - Black": "Field",
+          "Partner - Blue": "Field",
+          "Partner - Green": "Field",
+          "Partner - Red": "Field",
+          "Partner - White": "Field",
+          "Partner - Yellow": "Field"
+        },
+        "sectionsDict": {
+          "Partner": {
+            "title": "Partner",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Partner",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "Field": {
+            "title": "Field",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Field",
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
+          "Case": {
+            "title": "Case",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Case",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "Evidence_1": {
+            "title": "Evidence_1",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "END",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Evidence 1-3",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "Evidence_2": {
+            "title": "Evidence_2",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "END",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Evidence 4-6",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}
