@@ -9,7 +9,7 @@
     ],
     "decksUrl": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/DetectiveConanDecks.json"
   },
-  "customHelp": "Place your Partner card in the Partner zone, then build your Field with Characters. Play a Case card to the Case zone. Accumulate Evidence by winning Contacts. When you have enough Evidence equal to the Case Level during the Deduction Phase, declare Case Solved to win!",
+  "customHelp": "DECK: 50 cards, max 3 copies of any card (same card_id counts across all art variants). SETUP: Draw 5 cards. Mulligan if no Character in hand. TURN: Draw 1 → Play cards (Characters to Field, Events to Stack, Case to Case zone, Partner to Partner zone) → Contact (attack with your Characters) → End. EVIDENCE: Gain evidence tokens equal to the LP of each opponent Character you KO via Contact. FILE AREA (Discard): When your discard reaches 7+ cards, use your Partner's [Assist] to enter Deduction Phase. WIN: During Deduction Phase, if your evidence >= Case Level, use Partner's [Case Solved] to win!",
   "cards": {
     "dataUrl": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/DetectiveConanCards.json",
     "cardBack": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/CardBack.jpg"
@@ -34,47 +34,16 @@
         "general": {
           "min": 50,
           "max": 50,
-          "maxPerCard": 4
+          "maxPerCard": 3
         },
-        "categories": [
-          {
-            "category": "Partner - Blue",
-            "min": 0,
-            "max": 1
-          },
-          {
-            "category": "Partner - Green",
-            "min": 0,
-            "max": 1
-          },
-          {
-            "category": "Partner - White",
-            "min": 0,
-            "max": 1
-          },
-          {
-            "category": "Partner - Red",
-            "min": 0,
-            "max": 1
-          },
-          {
-            "category": "Partner - Yellow",
-            "min": 0,
-            "max": 1
-          },
-          {
-            "category": "Partner - Black",
-            "min": 0,
-            "max": 1
-          }
-        ]
+        "categories": []
       }
     }
   },
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "info": "If you have no Character or Partner card in your starting hand, you may reveal your hand and draw a new hand of 5 cards.",
+        "info": "If you have no Character card in your starting hand, you may reveal your hand and draw a new hand of 5 cards.",
         "startingHandSize": 5,
         "mulliganCycle": {
           "selectionRange": {
