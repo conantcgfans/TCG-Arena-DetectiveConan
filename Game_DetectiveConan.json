@@ -25,6 +25,7 @@
       {
         "title": "Classic",
         "gameplay": "Classic",
+        "deckRuleset": "Classic",
         "customCategories": []
       }
     ],
