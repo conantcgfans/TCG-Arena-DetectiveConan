@@ -46,12 +46,9 @@
       "mulligan": {
         "info": "You may return any number of cards from your starting hand to the deck, shuffle, then draw the same number back. This can be done once (first player decides first, then second player).",
         "startingHandSize": 5,
-        "mulliganCycle": {
-          "selectionRange": {
-            "min": 0
-          },
-          "steps": ["toTop", "shuffle", "draw"]
-        }
+        "drawNewHand": false,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": true
       },
       "newTurn": {
         "drawOnStart": false,
@@ -244,6 +241,7 @@
             "displayedTitle": "Partner",
             "noQuickActions": false,
             "enterTapped": false,
+            "enterSpun": false,
             "isGroupForbidden": true,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
@@ -258,6 +256,7 @@
             "isHorizontalAllowed": false,
             "displayedTitle": "Field",
             "enterTapped": false,
+            "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
@@ -274,6 +273,7 @@
             "displayedTitle": "Case",
             "noQuickActions": true,
             "enterTapped": false,
+            "enterSpun": false,
             "isGroupForbidden": true,
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
@@ -289,6 +289,7 @@
             "displayedTitle": "FILE Area",
             "noQuickActions": true,
             "enterTapped": false,
+            "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
@@ -304,6 +305,7 @@
             "displayedTitle": "Evidence",
             "noQuickActions": true,
             "enterTapped": false,
+            "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
