@@ -2,8 +2,7 @@
   "name": "Detective Conan",
   "menuBackgroundImage": "",
   "defaultRessources": {
-    "backgrounds": [
-    ],
+    "backgrounds": [],
     "decksUrl": "https://conantcgfans.github.io/TCG-Arena-DetectiveConan/DetectiveConanDecks.json"
   },
   "customHelp": "DECK: 42 cards total — 1 Partner + 1 Case + 40 Characters/Events. Max 3 copies per card ID (same ID across all art variants). SETUP: Place Partner and Case face-down. Draw 5 cards. Mulligan once: return any number of cards to deck, shuffle, draw same number back. Reveal Partner and Case to start. AUTO PHASE (start of each turn): (1) Activate your Partner and all your Field characters. (2) Draw 1 card from deck. (3) Place 2 cards face-down from your deck to your FILE Area (first player's first turn: only 1 card). PLAY CARD (once per turn): Card Level must be <= count of cards in your FILE Area. Card color must match your Case's color. Characters go to Field (active); Events resolve then go to Remove Area. NEXT HINT: Take the top card of your FILE Area to hand, then play 1 card from hand (FILE Area shrinks by 1 for Level check). DEDUCTION (推理): Tap an active Partner or Character -> gain evidence equal to their LP (draw that many cards face-down from deck to Evidence). Characters cannot Deduce on the turn they arrive. CONTACT (アクション vs Character): Tap your active Character, target an opponent Character. Compare AP — your AP >= opponent's AP removes their character. CASE ACTION (アクション vs 事件): Tap your active Character, target opponent's Case (needs 1+ opponent evidence). If not guarded: remove 1 opponent evidence, you gain 1 evidence. ASSIST (アシスト): Tap your Partner -> Partner moves to your FILE Area. If your FILE Area (including Partner) now has 7+ cards -> your Case enters Resolution phase (flip the marker). WIN: Tap Partner (Case Solved) when your Case is in Resolution phase AND your evidence count >= Case Level. LOSE: If you must Refresh (deck runs out) but your Remove Area is empty.",
@@ -54,8 +53,7 @@
       },
       "defaultNotes": "",
       "tokens": [],
-      "draggableTokens": [
-      ],
+      "draggableTokens": [],
       "countersStartingValues": [
         0
       ],
@@ -66,7 +64,8 @@
           "Field",
           "Case",
           "FileArea",
-          "Evidence"
+          "Evidence",
+          "MR"
         ],
         "layout": {
           "direction": "row",
@@ -99,11 +98,25 @@
                   "style": false
                 },
                 {
+                  "section": "FileArea",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": {
+                "width": "15vh",
+                "justifyContent": "start"
+              },
+              "content": [
+                {
                   "section": "Partner",
                   "style": false
                 },
                 {
-                  "section": "FileArea",
+                  "section": "MR",
                   "style": false
                 }
               ],
@@ -111,7 +124,10 @@
             }
           ]
         },
-        "categoriesAlreadyOnBoard": ["Partner", "Case"],
+        "categoriesAlreadyOnBoard": [
+          "Partner",
+          "Case"
+        ],
         "autoPlayFromHand": {
           "Case": "Case",
           "Character": "Field",
@@ -128,12 +144,28 @@
           "Partner": {
             "title": "Partner",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "Partner",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+           "MR": {
+            "title": "MR",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "MR",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
