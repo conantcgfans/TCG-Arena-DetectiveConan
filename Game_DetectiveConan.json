@@ -14,8 +14,7 @@
   "deckBuilding": {
     "mainFilters": [
       "type",
-      "ap",
-      "lp",
+      "cost",
       "color"
     ],
     "formats": [
@@ -75,50 +74,36 @@
           "content": [
             {
               "direction": "column",
-              "style": false,
+              "style": {
+                "width": "15vh",
+                "justifyContent": "start"
+              },
               "content": [
                 {
-                  "direction": "row",
-                  "style": false,
-                  "content": [
-                    {
-                      "section": "Case",
-                      "style": {
-                        "width": "15vh"
-                      }
-                    },
-                    {
-                      "section": "Partner",
-                      "style": {
-                        "marginRight": "20vh",
-                        "marginLeft": "5vh"
-                      }
-                    }
-                  ],
-                  "isSymetricalForOpponents": true
+                  "section": "Case",
+                  "style": false
                 },
                 {
-                  "section": "Field",
-                  "style": {
-                    "marginTop": "0.35rem"
-                  }
+                  "section": "Evidence",
+                  "style": false
                 }
               ],
               "isSymetricalForOpponents": false
             },
             {
               "direction": "column",
-              "style": {
-                "width": "22vh",
-                "justifyContent": "start"
-              },
+              "style": false,
               "content": [
                 {
-                  "section": "FileArea",
+                  "section": "Field",
                   "style": false
                 },
                 {
-                  "section": "Evidence",
+                  "section": "Partner",
+                  "style": false
+                },
+                {
+                  "section": "FileArea",
                   "style": false
                 }
               ],
@@ -159,7 +144,7 @@
           "Field": {
             "title": "Field",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "LARGE",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
@@ -175,11 +160,11 @@
           "Case": {
             "title": "Case",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
+            "isHorizontalAllowed": false,
             "displayedTitle": "Case",
             "noQuickActions": true,
             "enterTapped": false,
