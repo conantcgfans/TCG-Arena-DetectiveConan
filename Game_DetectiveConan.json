@@ -176,7 +176,7 @@
           "Field": {
             "title": "Field",
             "isHidden": "no",
-            "height": "LARGE",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
