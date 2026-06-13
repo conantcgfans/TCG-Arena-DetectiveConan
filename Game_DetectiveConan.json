@@ -106,7 +106,9 @@
                   "content": [
                     {
                       "section": "MR",
-                      "style": false
+                      "style": {
+                        "width": "30vh"
+                      }
                     },
                     {
                       "section": "Partner",
@@ -167,7 +169,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "MR",
+            "displayedTitle": "Partner Area",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -217,7 +219,7 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "FILE Area",
             "noQuickActions": true,
-            "enterTapped": false,
+            "enterTapped": true,
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
