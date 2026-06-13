@@ -34646,5 +34646,1071 @@
         "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1775607819977325.jpg"
       }
     }
+  },
+  "PR001": {
+    "id": "PR001",
+    "name": "江戸川コナン PR001",
+    "type": "Partner",
+    "color": "Blue",
+    "cost": 0,
+    "rarity": "PR",
+    "package": "PRカード",
+    "lp": 1,
+    "feature": "【解決編】【事件解決】【スリープ】：自分の証拠が事件レベルの数以上ある場合、ゲームに勝利する。\r\n【アシスト】【スリープ】：FILEエリアに移動する。自分のFILEエリアにカードが7枚以上ある場合、事件を解決編にする。",
+    "face": {
+      "front": {
+        "name": "江戸川コナン PR001",
+        "type": "Partner",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR001.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394785969755.jpg"
+      }
+    }
+  },
+  "PR002": {
+    "id": "PR002",
+    "name": "江戸川コナン PR002",
+    "type": "Partner",
+    "color": "Blue",
+    "cost": 0,
+    "rarity": "PR",
+    "package": "PRカード",
+    "lp": 1,
+    "feature": "【解決編】【事件解決】【スリープ】：自分の証拠が事件レベルの数以上ある場合、ゲームに勝利する。\n【アシスト】【スリープ】：FILEエリアに移動する。自分のFILEエリアにカードが7枚以上ある場合、事件を解決編にする。",
+    "face": {
+      "front": {
+        "name": "江戸川コナン PR002",
+        "type": "Partner",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR002.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394785976593.jpg"
+      }
+    }
+  },
+  "PR003": {
+    "id": "PR003",
+    "name": "服部平次＆怪盗キッド PR003",
+    "type": "Partner",
+    "color": "Green",
+    "cost": 0,
+    "rarity": "PR",
+    "package": "PRカード",
+    "lp": 1,
+    "feature": "【解決編】【事件解決】【スリープ】：自分の証拠が事件レベルの数以上ある場合、ゲームに勝利する。\r\n【アシスト】【スリープ】：FILEエリアに移動する。自分のFILEエリアにカードが7枚以上ある場合、事件を解決編にする。",
+    "face": {
+      "front": {
+        "name": "服部平次＆怪盗キッド PR003",
+        "type": "Partner",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR003.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394785980874.jpg"
+      }
+    }
+  },
+  "PR004": {
+    "id": "PR004",
+    "name": "江戸川コナン＆工藤新一 PR004",
+    "type": "Partner",
+    "color": "Blue",
+    "cost": 0,
+    "rarity": "PR",
+    "package": "PRカード",
+    "lp": 1,
+    "feature": "【解決編】【事件解決】【スリープ】：自分の証拠が事件レベルの数以上ある場合、ゲームに勝利する。\n【アシスト】【スリープ】：FILEエリアに移動する。自分のFILEエリアにカードが7枚以上ある場合、事件を解決編にする。",
+    "face": {
+      "front": {
+        "name": "江戸川コナン＆工藤新一 PR004",
+        "type": "Partner",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR004.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394785984826.jpg"
+      }
+    }
+  },
+  "PR005": {
+    "id": "PR005",
+    "name": "江戸川コナン＆工藤新一 PR005",
+    "type": "Partner",
+    "color": "Blue",
+    "cost": 0,
+    "rarity": "PR",
+    "package": "PRカード",
+    "lp": 1,
+    "feature": "【解決編】【事件解決】【スリープ】：自分の証拠が事件レベルの数以上ある場合、ゲームに勝利する。\n【アシスト】【スリープ】：FILEエリアに移動する。自分のFILEエリアにカードが7枚以上ある場合、事件を解決編にする。",
+    "face": {
+      "front": {
+        "name": "江戸川コナン＆工藤新一 PR005",
+        "type": "Partner",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR005.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394785988065.jpg"
+      }
+    }
+  },
+  "PR006": {
+    "id": "PR006",
+    "name": "江戸川コナン PR006",
+    "type": "Character",
+    "color": "Blue",
+    "cost": 4,
+    "rarity": "PR",
+    "package": "PRカード",
+    "ap": 4000,
+    "lp": 1,
+    "category": "探偵,毛利探偵事務所,少年探偵団",
+    "feature": "【自分ターン中】このキャラがコンタクトしたとき、手札を1枚リムーブしてもよい。そうした場合、そのコンタクト中、このキャラをAP＋2000する。",
+    "trigger": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。",
+    "face": {
+      "front": {
+        "name": "江戸川コナン PR006",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR006.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394785992367.jpg"
+      }
+    }
+  },
+  "PR007": {
+    "id": "PR007",
+    "name": "江戸川コナン PR007",
+    "type": "Partner",
+    "color": "Blue",
+    "cost": 0,
+    "rarity": "PR",
+    "package": "PRカード",
+    "lp": 1,
+    "feature": "【解決編】【事件解決】【スリープ】：自分の証拠が事件レベルの数以上ある場合、ゲームに勝利する。\r\n【アシスト】【スリープ】：FILEエリアに移動する。自分のFILEエリアにカードが7枚以上ある場合、事件を解決編にする。",
+    "face": {
+      "front": {
+        "name": "江戸川コナン PR007",
+        "type": "Partner",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR007.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394785997078.jpg"
+      }
+    }
+  },
+  "PR008": {
+    "id": "PR008",
+    "name": "服部平次 PR008",
+    "type": "Partner",
+    "color": "Green",
+    "cost": 0,
+    "rarity": "PR",
+    "package": "PRカード",
+    "lp": 1,
+    "feature": "【解決編】【事件解決】【スリープ】：自分の証拠が事件レベルの数以上ある場合、ゲームに勝利する。\r\n【アシスト】【スリープ】：FILEエリアに移動する。自分のFILEエリアにカードが7枚以上ある場合、事件を解決編にする。",
+    "face": {
+      "front": {
+        "name": "服部平次 PR008",
+        "type": "Partner",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR008.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394786001005.jpg"
+      }
+    }
+  },
+  "PR009": {
+    "id": "PR009",
+    "name": "怪盗キッド PR009",
+    "type": "Partner",
+    "color": "White",
+    "cost": 0,
+    "rarity": "PR",
+    "package": "PRカード",
+    "lp": 1,
+    "feature": "【解決編】【事件解決】【スリープ】：自分の証拠が事件レベルの数以上ある場合、ゲームに勝利する。\r\n【アシスト】【スリープ】：FILEエリアに移動する。自分のFILEエリアにカードが7枚以上ある場合、事件を解決編にする。",
+    "face": {
+      "front": {
+        "name": "怪盗キッド PR009",
+        "type": "Partner",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR009.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394786005525.jpg"
+      }
+    }
+  },
+  "PR010": {
+    "id": "PR010",
+    "name": "赤井秀一 PR010",
+    "type": "Partner",
+    "color": "Red",
+    "cost": 0,
+    "rarity": "PR",
+    "package": "PRカード",
+    "lp": 1,
+    "feature": "【解決編】【事件解決】【スリープ】：自分の証拠が事件レベルの数以上ある場合、ゲームに勝利する。\r\n【アシスト】【スリープ】：FILEエリアに移動する。自分のFILEエリアにカードが7枚以上ある場合、事件を解決編にする。",
+    "face": {
+      "front": {
+        "name": "赤井秀一 PR010",
+        "type": "Partner",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR010.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394786009695.jpg"
+      }
+    }
+  },
+  "PR011": {
+    "id": "PR011",
+    "name": "安室透 PR011",
+    "type": "Partner",
+    "color": "Yellow",
+    "cost": 0,
+    "rarity": "PR",
+    "package": "PRカード",
+    "lp": 1,
+    "feature": "【解決編】【事件解決】【スリープ】：自分の証拠が事件レベルの数以上ある場合、ゲームに勝利する。\r\n【アシスト】【スリープ】：FILEエリアに移動する。自分のFILEエリアにカードが7枚以上ある場合、事件を解決編にする。",
+    "face": {
+      "front": {
+        "name": "安室透 PR011",
+        "type": "Partner",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR011.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394786013939.jpg"
+      }
+    }
+  },
+  "PR012": {
+    "id": "PR012",
+    "name": "……なるほどな… PR012",
+    "type": "Event",
+    "color": "Blue",
+    "cost": 7,
+    "rarity": "PR",
+    "package": "PRカード",
+    "feature": "このカードを表向きのまま証拠として得る。",
+    "trigger": "【ヒラメキ】（証拠からリムーブされるときに発動する）自分は証拠を1つ得る。",
+    "face": {
+      "front": {
+        "name": "……なるほどな… PR012",
+        "type": "Event",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR012.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394786017273.jpg"
+      }
+    }
+  },
+  "PR013": {
+    "id": "PR013",
+    "name": "そーいう事かいな… PR013",
+    "type": "Event",
+    "color": "Green",
+    "cost": 7,
+    "rarity": "PR",
+    "package": "PRカード",
+    "feature": "このカードを表向きのまま証拠として得る。",
+    "trigger": "【ヒラメキ】（証拠からリムーブされるときに発動する）自分は証拠を1つ得る。",
+    "face": {
+      "front": {
+        "name": "そーいう事かいな… PR013",
+        "type": "Event",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR013.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394786021733.jpg"
+      }
+    }
+  },
+  "PR014": {
+    "id": "PR014",
+    "name": "頂いて行くぜ！ PR014",
+    "type": "Event",
+    "color": "White",
+    "cost": 7,
+    "rarity": "PR",
+    "package": "PRカード",
+    "feature": "このカードを表向きのまま証拠として得る。",
+    "trigger": "【ヒラメキ】（証拠からリムーブされるときに発動する）自分は証拠を1つ得る。",
+    "face": {
+      "front": {
+        "name": "頂いて行くぜ！ PR014",
+        "type": "Event",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR014.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394786026296.jpg"
+      }
+    }
+  },
+  "PR015": {
+    "id": "PR015",
+    "name": "なるほど… PR015",
+    "type": "Event",
+    "color": "Red",
+    "cost": 7,
+    "rarity": "PR",
+    "package": "PRカード",
+    "feature": "このカードを表向きのまま証拠として得る。",
+    "trigger": "【ヒラメキ】（証拠からリムーブされるときに発動する）自分は証拠を1つ得る。",
+    "face": {
+      "front": {
+        "name": "なるほど… PR015",
+        "type": "Event",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR015.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394786030086.jpg"
+      }
+    }
+  },
+  "PR016": {
+    "id": "PR016",
+    "name": "拳銃か！！ PR016",
+    "type": "Event",
+    "color": "Yellow",
+    "cost": 7,
+    "rarity": "PR",
+    "package": "PRカード",
+    "feature": "このカードを表向きのまま証拠として得る。",
+    "trigger": "【ヒラメキ】（証拠からリムーブされるときに発動する）自分は証拠を1つ得る。",
+    "face": {
+      "front": {
+        "name": "拳銃か！！ PR016",
+        "type": "Event",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR016.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394786034126.jpg"
+      }
+    }
+  },
+  "PR017": {
+    "id": "PR017",
+    "name": "……なるほどな… PR017",
+    "type": "Event",
+    "color": "Blue",
+    "cost": 7,
+    "rarity": "PR",
+    "package": "PRカード",
+    "feature": "このカードを表向きのまま証拠として得る。",
+    "trigger": "【ヒラメキ】（証拠からリムーブされるときに発動する）自分は証拠を1つ得る。",
+    "face": {
+      "front": {
+        "name": "……なるほどな… PR017",
+        "type": "Event",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR017.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394786038421.jpg"
+      }
+    }
+  },
+  "PR018": {
+    "id": "PR018",
+    "name": "そーいう事かいな… PR018",
+    "type": "Event",
+    "color": "Green",
+    "cost": 7,
+    "rarity": "PR",
+    "package": "PRカード",
+    "feature": "このカードを表向きのまま証拠として得る。",
+    "trigger": "【ヒラメキ】（証拠からリムーブされるときに発動する）自分は証拠を1つ得る。",
+    "face": {
+      "front": {
+        "name": "そーいう事かいな… PR018",
+        "type": "Event",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR018.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394786042532.jpg"
+      }
+    }
+  },
+  "PR019": {
+    "id": "PR019",
+    "name": "頂いて行くぜ！ PR019",
+    "type": "Event",
+    "color": "White",
+    "cost": 7,
+    "rarity": "PR",
+    "package": "PRカード",
+    "feature": "このカードを表向きのまま証拠として得る。",
+    "trigger": "【ヒラメキ】（証拠からリムーブされるときに発動する）自分は証拠を1つ得る。",
+    "face": {
+      "front": {
+        "name": "頂いて行くぜ！ PR019",
+        "type": "Event",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR019.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394786046309.jpg"
+      }
+    }
+  },
+  "PR020": {
+    "id": "PR020",
+    "name": "なるほど… PR020",
+    "type": "Event",
+    "color": "Red",
+    "cost": 7,
+    "rarity": "PR",
+    "package": "PRカード",
+    "feature": "このカードを表向きのまま証拠として得る。",
+    "trigger": "【ヒラメキ】（証拠からリムーブされるときに発動する）自分は証拠を1つ得る。",
+    "face": {
+      "front": {
+        "name": "なるほど… PR020",
+        "type": "Event",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR020.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394786050101.jpg"
+      }
+    }
+  },
+  "PR021": {
+    "id": "PR021",
+    "name": "拳銃か！！ PR021",
+    "type": "Event",
+    "color": "Yellow",
+    "cost": 7,
+    "rarity": "PR",
+    "package": "PRカード",
+    "feature": "このカードを表向きのまま証拠として得る。",
+    "trigger": "【ヒラメキ】（証拠からリムーブされるときに発動する）自分は証拠を1つ得る。",
+    "face": {
+      "front": {
+        "name": "拳銃か！！ PR021",
+        "type": "Event",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR021.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394811310302.jpg"
+      }
+    }
+  },
+  "PR022": {
+    "id": "PR022",
+    "name": "江戸川コナン PR022",
+    "type": "Partner",
+    "color": "Blue",
+    "cost": 0,
+    "rarity": "PR",
+    "package": "PRカード",
+    "lp": 1,
+    "feature": "【解決編】【事件解決】【スリープ】：自分の証拠が事件レベルの数以上ある場合、ゲームに勝利する。\r\n【アシスト】【スリープ】：FILEエリアに移動する。自分のFILEエリアにカードが8枚以上ある場合、事件を解決編にする。",
+    "face": {
+      "front": {
+        "name": "江戸川コナン PR022",
+        "type": "Partner",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR022.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394811317625.jpg"
+      }
+    }
+  },
+  "PR023": {
+    "id": "PR023",
+    "name": "江戸川コナン PR023",
+    "type": "Character",
+    "color": "Blue",
+    "cost": 5,
+    "rarity": "PR",
+    "package": "PRカード",
+    "ap": 6000,
+    "lp": 1,
+    "category": "探偵,毛利探偵事務所,少年探偵団",
+    "trigger": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。",
+    "face": {
+      "front": {
+        "name": "江戸川コナン PR023",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR023.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394811322392.jpg"
+      }
+    }
+  },
+  "PR024": {
+    "id": "PR024",
+    "name": "怪盗キッド PR024",
+    "type": "Character",
+    "color": "White",
+    "cost": 7,
+    "rarity": "PR",
+    "package": "PRカード",
+    "ap": 6000,
+    "lp": 1,
+    "category": "怪盗",
+    "feature": "【パートナー白】〚迅速〛（登場したターンからすぐに推理かアクションできる）",
+    "face": {
+      "front": {
+        "name": "怪盗キッド PR024",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR024.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394811326402.jpg"
+      }
+    }
+  },
+  "PR025": {
+    "id": "PR025",
+    "name": "服部平次 PR025",
+    "type": "Character",
+    "color": "Green",
+    "cost": 7,
+    "rarity": "PR",
+    "package": "PRカード",
+    "ap": 6000,
+    "lp": 1,
+    "category": "探偵, 高校生",
+    "feature": "【パートナー緑】〚迅速〛（登場したターンからすぐに推理かアクションできる）",
+    "face": {
+      "front": {
+        "name": "服部平次 PR025",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR025.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734395227872994.jpg"
+      }
+    }
+  },
+  "PR026": {
+    "id": "PR026",
+    "name": "毛利蘭 PR026",
+    "type": "Character",
+    "color": "Blue",
+    "cost": 5,
+    "rarity": "PR",
+    "package": "PRカード",
+    "ap": 5000,
+    "lp": 0,
+    "category": "高校生, 毛利探偵事務所, 空手家",
+    "feature": "【登場時】自分のデッキのカードを上から1枚見る。その中から〚カード名［妃英理］〛か〚カード名［工藤新一］〛か〚特徴［毛利探偵事務所］〛のキャラを1枚まで公開して手札に加え、残りを好きな順番でデッキの下に移す。",
+    "face": {
+      "front": {
+        "name": "毛利蘭 PR026",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR026.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394811334004.jpg"
+      }
+    }
+  },
+  "PR027": {
+    "id": "PR027",
+    "name": "白馬探 PR027",
+    "type": "Character",
+    "color": "White",
+    "cost": 6,
+    "rarity": "PR",
+    "package": "PRカード",
+    "ap": 6000,
+    "lp": 1,
+    "category": "探偵, 高校生",
+    "feature": "〚ミスリード1〛（相手の推理に対し、スリープさせることでLP－1する）\n【登場時】自分のリムーブエリアにあるすべてのカードをデッキの下に移し、デッキをシャッフルする。",
+    "face": {
+      "front": {
+        "name": "白馬探 PR027",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR027.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394811338077.jpg"
+      }
+    }
+  },
+  "PR028": {
+    "id": "PR028",
+    "name": "ジョディ・スターリング PR028",
+    "type": "Character",
+    "color": "Red",
+    "cost": 5,
+    "rarity": "PR",
+    "package": "PRカード",
+    "ap": 5000,
+    "lp": 1,
+    "category": "FBI",
+    "feature": "【ターン1】自分の現場にいるキャラのアクション［事件］によって証拠を得たとき、このキャラをスリープさせてもよい。そうした場合、相手は手札を1枚リムーブする。",
+    "trigger": "【ヒラメキ】（証拠からリムーブされるときに発動する）相手は手札を1枚リムーブする。",
+    "face": {
+      "front": {
+        "name": "ジョディ・スターリング PR028",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR028.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394811342255.jpg"
+      }
+    }
+  },
+  "PR029": {
+    "id": "PR029",
+    "name": "白鳥任三郎 PR029",
+    "type": "Character",
+    "color": "Yellow",
+    "cost": 4,
+    "rarity": "PR",
+    "package": "PRカード",
+    "ap": 4000,
+    "lp": 1,
+    "category": "警察, 警視庁",
+    "feature": "【ターン1】相手が【カットイン】か【変装】を使用したとき、コンタクト中のキャラを1枚まで選び、このコンタクト中、AP－1000する。",
+    "trigger": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。",
+    "face": {
+      "front": {
+        "name": "白鳥任三郎 PR029",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR029.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394811346938.jpg"
+      }
+    }
+  },
+  "PR030": {
+    "id": "PR030",
+    "name": "毛利蘭 PR030",
+    "type": "Character",
+    "color": "Blue",
+    "cost": 5,
+    "rarity": "PR",
+    "package": "PRカード",
+    "ap": 5000,
+    "lp": 0,
+    "category": "高校生, 毛利探偵事務所, 空手家",
+    "feature": "【登場時】自分のデッキのカードを上から1枚見る。その中から〚カード名［妃英理］〛か〚カード名［工藤新一］〛か〚特徴［毛利探偵事務所］〛のキャラを1枚まで公開して手札に加え、残りを好きな順番でデッキの下に移す。",
+    "face": {
+      "front": {
+        "name": "毛利蘭 PR030",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR030.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394811350825.jpg"
+      }
+    }
+  },
+  "PR031": {
+    "id": "PR031",
+    "name": "白馬探 PR031",
+    "type": "Character",
+    "color": "White",
+    "cost": 6,
+    "rarity": "PR",
+    "package": "PRカード",
+    "ap": 6000,
+    "lp": 1,
+    "category": "探偵, 高校生",
+    "feature": "〚ミスリード1〛（相手の推理に対し、スリープさせることでLP－1する）\n【登場時】自分のリムーブエリアにあるすべてのカードをデッキの下に移し、デッキをシャッフルする。",
+    "face": {
+      "front": {
+        "name": "白馬探 PR031",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR031.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394811354268.jpg"
+      }
+    }
+  },
+  "PR032": {
+    "id": "PR032",
+    "name": "ジョディ・スターリング PR032",
+    "type": "Character",
+    "color": "Red",
+    "cost": 5,
+    "rarity": "PR",
+    "package": "PRカード",
+    "ap": 5000,
+    "lp": 1,
+    "category": "FBI",
+    "feature": "【ターン1】自分の現場にいるキャラのアクション［事件］によって証拠を得たとき、このキャラをスリープさせてもよい。そうした場合、相手は手札を1枚リムーブする。",
+    "trigger": "【ヒラメキ】（証拠からリムーブされるときに発動する）相手は手札を1枚リムーブする。",
+    "face": {
+      "front": {
+        "name": "ジョディ・スターリング PR032",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR032.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394811358751.jpg"
+      }
+    }
+  },
+  "PR033": {
+    "id": "PR033",
+    "name": "白鳥任三郎 PR033",
+    "type": "Character",
+    "color": "Yellow",
+    "cost": 4,
+    "rarity": "PR",
+    "package": "PRカード",
+    "ap": 4000,
+    "lp": 1,
+    "category": "警察, 警視庁",
+    "feature": "【ターン1】相手が【カットイン】か【変装】を使用したとき、コンタクト中のキャラを1枚まで選び、このコンタクト中、AP－1000する。",
+    "trigger": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。",
+    "face": {
+      "front": {
+        "name": "白鳥任三郎 PR033",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR033.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394811362110.jpg"
+      }
+    }
+  },
+  "PR034": {
+    "id": "PR034",
+    "name": "遠山和葉 PR034",
+    "type": "Character",
+    "color": "Green",
+    "cost": 3,
+    "rarity": "PR",
+    "package": "PRカード",
+    "ap": 2000,
+    "lp": 1,
+    "category": "高校生",
+    "cut_in": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）",
+    "face": {
+      "front": {
+        "name": "遠山和葉 PR034",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR034.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394811366926.jpg"
+      }
+    }
+  },
+  "PR035": {
+    "id": "PR035",
+    "name": "毛利蘭 PR035",
+    "type": "Character",
+    "color": "Blue",
+    "cost": 7,
+    "rarity": "PR",
+    "package": "PRカード",
+    "ap": 5000,
+    "lp": 0,
+    "category": "高校生, 毛利探偵事務所, 空手家",
+    "feature": "【登場時】カードを1枚引く。",
+    "trigger": "【ヒラメキ】（証拠からリムーブされるときに発動する）自分のリムーブエリアにある〚カード名［江戸川コナン］〛を1枚まで選び、手札に加える。",
+    "face": {
+      "front": {
+        "name": "毛利蘭 PR035",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR035.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394811370845.jpg"
+      }
+    }
+  },
+  "PR036": {
+    "id": "PR036",
+    "name": "遠山和葉 PR036",
+    "type": "Character",
+    "color": "Green",
+    "cost": 6,
+    "rarity": "PR",
+    "package": "PRカード",
+    "ap": 5000,
+    "lp": 1,
+    "category": "高校生",
+    "feature": "【ターン1】このキャラか〚カード名［服部平次］〛が自分の現場に登場したとき、キャラを1枚まで選び、スリープさせる。",
+    "trigger": "【ヒラメキ】（証拠からリムーブされるときに発動する）キャラを1枚まで選び、スリープさせる。",
+    "face": {
+      "front": {
+        "name": "遠山和葉 PR036",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR036.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394811374248.jpg"
+      }
+    }
+  },
+  "PR037": {
+    "id": "PR037",
+    "name": "平成のホームズ PR037",
+    "type": "Case",
+    "color": "Blue",
+    "cost": 0,
+    "rarity": "PR",
+    "package": "PRカード",
+    "difficulty_first": 7,
+    "difficulty_second": 6,
+    "face": {
+      "front": {
+        "name": "平成のホームズ PR037",
+        "type": "Case",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR037.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394811378675.jpg"
+      }
+    }
+  },
+  "PR038": {
+    "id": "PR038",
+    "name": "中森青子 PR038",
+    "type": "Character",
+    "color": "White",
+    "cost": 2,
+    "rarity": "PR",
+    "package": "PRカード",
+    "ap": 1000,
+    "lp": 1,
+    "category": "高校生",
+    "cut_in": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）",
+    "face": {
+      "front": {
+        "name": "中森青子 PR038",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR038.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394811383899.jpg"
+      }
+    }
+  },
+  "PR039": {
+    "id": "PR039",
+    "name": "中森青子 PR039",
+    "type": "Character",
+    "color": "White",
+    "cost": 4,
+    "rarity": "PR",
+    "package": "PRカード",
+    "ap": 4000,
+    "lp": 1,
+    "category": "高校生",
+    "feature": "【ターン1】自分の現場にいる〚特徴［怪盗］〛のキャラがアクションしたとき、ターン終了時までそのキャラをAP＋1000する。",
+    "trigger": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。",
+    "face": {
+      "front": {
+        "name": "中森青子 PR039",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR039.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394811387155.jpg"
+      }
+    }
+  },
+  "PR040": {
+    "id": "PR040",
+    "name": "毛利蘭 PR040",
+    "type": "Character",
+    "color": "Blue",
+    "cost": 3,
+    "rarity": "PR",
+    "package": "PRカード",
+    "ap": 2000,
+    "lp": 1,
+    "category": "高校生, 毛利探偵事務所, 空手家",
+    "cut_in": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）",
+    "face": {
+      "front": {
+        "name": "毛利蘭 PR040",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR040.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394811391445.jpg"
+      }
+    }
+  },
+  "PR041": {
+    "id": "PR041",
+    "name": "大岡紅葉 PR041",
+    "type": "Character",
+    "color": "Green",
+    "cost": 4,
+    "rarity": "PR",
+    "package": "PRカード",
+    "ap": 3000,
+    "lp": 1,
+    "category": "高校生",
+    "feature": "【登場時】手札から【緑】のイベントを1枚リムーブしてもよい。そうした場合、カードを2枚引く。",
+    "face": {
+      "front": {
+        "name": "大岡紅葉 PR041",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR041.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394830922674.jpg"
+      }
+    }
+  },
+  "PR042": {
+    "id": "PR042",
+    "name": "鈴木園子 PR042",
+    "type": "Character",
+    "color": "White",
+    "cost": 7,
+    "rarity": "PR",
+    "package": "PRカード",
+    "ap": 5000,
+    "lp": 1,
+    "category": "高校生, 鈴木財閥",
+    "feature": "【パートナー青】【登場時】手札を1枚リムーブしてもよい。そうした場合、自分のリムーブエリアにあるレベル4以下の〚特徴［少年探偵団］〛のキャラを2枚まで選び、スリープ状態で登場させる。",
+    "face": {
+      "front": {
+        "name": "鈴木園子 PR042",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR042.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394830928873.jpg"
+      }
+    }
+  },
+  "PR043": {
+    "id": "PR043",
+    "name": "世良真純 PR043",
+    "type": "Character",
+    "color": "Red",
+    "cost": 6,
+    "rarity": "PR",
+    "package": "PRカード",
+    "ap": 5000,
+    "lp": 1,
+    "category": "赤井家",
+    "feature": "【登場時】自分の現場に〚カード名［沖矢昴］〛かこのキャラ以外の〚特徴［赤井家］〛のキャラがいる場合、ターン終了時までこのキャラは〚突撃〛（登場したターンからすぐにアクションできる）を持つ。",
+    "face": {
+      "front": {
+        "name": "世良真純 PR043",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR043.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394830933275.jpg"
+      }
+    }
+  },
+  "PR044": {
+    "id": "PR044",
+    "name": "諸伏高明 PR044",
+    "type": "Character",
+    "color": "Yellow",
+    "cost": 2,
+    "rarity": "PR",
+    "package": "PRカード",
+    "ap": 1000,
+    "lp": 1,
+    "category": "警察, 長野県警",
+    "cut_in": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）",
+    "face": {
+      "front": {
+        "name": "諸伏高明 PR044",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR044.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394830937260.jpg"
+      }
+    }
+  },
+  "PR045": {
+    "id": "PR045",
+    "name": "大岡紅葉 PR045",
+    "type": "Character",
+    "color": "Green",
+    "cost": 4,
+    "rarity": "PR",
+    "package": "PRカード",
+    "ap": 3000,
+    "lp": 1,
+    "category": "高校生",
+    "feature": "【登場時】手札から【緑】のイベントを1枚リムーブしてもよい。そうした場合、カードを2枚引く。",
+    "face": {
+      "front": {
+        "name": "大岡紅葉 PR045",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR045.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394830941157.jpg"
+      }
+    }
+  },
+  "PR046": {
+    "id": "PR046",
+    "name": "鈴木園子 PR046",
+    "type": "Character",
+    "color": "White",
+    "cost": 7,
+    "rarity": "PR",
+    "package": "PRカード",
+    "ap": 5000,
+    "lp": 1,
+    "category": "高校生, 鈴木財閥",
+    "feature": "【パートナー青】【登場時】手札を1枚リムーブしてもよい。そうした場合、自分のリムーブエリアにあるレベル4以下の〚特徴［少年探偵団］〛のキャラを2枚まで選び、スリープ状態で登場させる。",
+    "face": {
+      "front": {
+        "name": "鈴木園子 PR046",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR046.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394830945161.jpg"
+      }
+    }
+  },
+  "PR047": {
+    "id": "PR047",
+    "name": "世良真純 PR047",
+    "type": "Character",
+    "color": "Red",
+    "cost": 6,
+    "rarity": "PR",
+    "package": "PRカード",
+    "ap": 5000,
+    "lp": 1,
+    "category": "赤井家",
+    "feature": "【登場時】自分の現場に〚カード名［沖矢昴］〛かこのキャラ以外の〚特徴［赤井家］〛のキャラがいる場合、ターン終了時までこのキャラは〚突撃〛（登場したターンからすぐにアクションできる）を持つ。",
+    "face": {
+      "front": {
+        "name": "世良真純 PR047",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR047.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394830949799.jpg"
+      }
+    }
+  },
+  "PR048": {
+    "id": "PR048",
+    "name": "諸伏高明 PR048",
+    "type": "Character",
+    "color": "Yellow",
+    "cost": 2,
+    "rarity": "PR",
+    "package": "PRカード",
+    "ap": 1000,
+    "lp": 1,
+    "category": "警察, 長野県警",
+    "cut_in": "【カットイン】AP＋2000（コンタクト中に手札からリムーブして使う）",
+    "face": {
+      "front": {
+        "name": "諸伏高明 PR048",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR048.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394830954785.jpg"
+      }
+    }
+  },
+  "PR049": {
+    "id": "PR049",
+    "name": "黒羽盗一 PR049",
+    "type": "Character",
+    "color": "White",
+    "cost": 5,
+    "rarity": "PR",
+    "package": "PRカード",
+    "ap": 5000,
+    "lp": 1,
+    "category": "マジシャン",
+    "feature": "【登場時】自分の現場にいる⁅白⁆のキャラを1枚まで選び、自分のデッキのカードを上から1枚裏向きでセットし、ターン終了時までAP＋1000する。",
+    "trigger": "【ヒラメキ】（証拠からリムーブされるときに発動する）カードを1枚引く。",
+    "face": {
+      "front": {
+        "name": "黒羽盗一 PR049",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR049.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394830958437.jpg"
+      }
+    }
+  },
+  "PR050": {
+    "id": "PR050",
+    "name": "ウォッカ PR050",
+    "type": "Character",
+    "color": "Black",
+    "cost": 4,
+    "rarity": "PR",
+    "package": "PRカード",
+    "ap": 5000,
+    "lp": 0,
+    "category": "黒ずくめの組織",
+    "cut_in": "【カットイン】カードを2枚引き、手札を1枚リムーブする。（コンタクト中に手札からリムーブして使う）",
+    "illustrator": "ニジハヤシ",
+    "face": {
+      "front": {
+        "name": "ウォッカ PR050",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/PR050.jpg",
+        "subImage": "https://www.takaratomy.co.jp/products/conan-cardgame/storage/card/1734394830962087.jpg"
+      }
+    }
   }
 }
