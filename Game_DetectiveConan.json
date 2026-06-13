@@ -1,6 +1,7 @@
 {
   "name": "Detective Conan",
   "menuBackgroundImage": "",
+  "cardRotation": 90,
   "defaultRessources": {
     "backgrounds": [],
     "decksUrl": "https://conantcgfans.github.io/TCG-Arena-DetectiveConan/DetectiveConanDecks.json"
