@@ -105,6 +105,12 @@
                   },
                   "content": [
                     {
+                      "section": "FileArea",
+                      "style": {
+                        "width": "60vh"
+                      }
+                    },
+                    {
                       "section": "MR",
                       "style": {
                         "width": "30vh"
@@ -118,10 +124,6 @@
                     }
                   ],
                   "isSymetricalForOpponents": false
-                },
-                {
-                  "section": "FileArea",
-                  "style": false
                 }
               ],
               "isSymetricalForOpponents": false
