@@ -99,25 +99,26 @@
                   "style": false
                 },
                 {
-                  "section": "FileArea",
-                  "style": false
-                }
-              ],
-              "isSymetricalForOpponents": false
-            },
-            {
-              "direction": "column",
-              "style": {
-                "width": "15vh",
-                "justifyContent": "start"
-              },
-              "content": [
-                {
-                  "section": "Partner",
-                  "style": false
+                  "direction": "column",
+                  "style": {
+                    "height": "SMALL"
+                  },
+                  "content": [
+                    {
+                      "section": "MR",
+                      "style": false
+                    },
+                    {
+                      "section": "Partner",
+                      "style": {
+                        "width": "15vh"
+                      }
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 },
                 {
-                  "section": "MR",
+                  "section": "FileArea",
                   "style": false
                 }
               ],
@@ -145,7 +146,7 @@
           "Partner": {
             "title": "Partner",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -158,10 +159,10 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-           "MR": {
+          "MR": {
             "title": "MR",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
