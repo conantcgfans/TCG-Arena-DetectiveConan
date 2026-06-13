@@ -81,7 +81,10 @@
               "content": [
                 {
                   "section": "Case",
-                  "style": false
+                  "style": {
+                    "width": "10vh",
+                    "height": "7vh"
+                  }
                 },
                 {
                   "section": "Evidence",
