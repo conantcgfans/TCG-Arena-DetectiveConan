@@ -214,7 +214,7 @@
           },
           "FileArea": {
             "title": "FileArea",
-            "isHidden": "both",
+            "isHidden": "yes",
             "height": "SMALL",
             "alignment": "START",
             "opponentAlignment": false,
@@ -230,7 +230,7 @@
           },
           "Evidence": {
             "title": "Evidence",
-            "isHidden": "both",
+            "isHidden": "yes",
             "height": "SMALL",
             "alignment": "START",
             "opponentAlignment": false,
