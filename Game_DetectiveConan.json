@@ -50,7 +50,7 @@
       "newTurn": {
         "drawOnStart": false,
         "sharedTurn": false,
-        "firstPlayerTokenName": "",
+        "firstPlayerTokenName": "First Player",
         "drawPerTurn": 1
       },
       "defaultNotes": "",
@@ -214,7 +214,7 @@
           },
           "FileArea": {
             "title": "FileArea",
-            "isHidden": "no",
+            "isHidden": "both",
             "height": "SMALL",
             "alignment": "START",
             "opponentAlignment": false,
@@ -230,7 +230,7 @@
           },
           "Evidence": {
             "title": "Evidence",
-            "isHidden": "no",
+            "isHidden": "both",
             "height": "SMALL",
             "alignment": "START",
             "opponentAlignment": false,
