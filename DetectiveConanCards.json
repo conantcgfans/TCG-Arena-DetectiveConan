@@ -45457,6 +45457,2245 @@
       }
     }
   },
+  "B10001": {
+    "id": "B10001",
+    "name": "B10001",
+    "type": "Partner",
+    "color": [
+      "Blue"
+    ],
+    "cost": 0,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10001",
+        "type": "Partner",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10001.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10002": {
+    "id": "B10002",
+    "name": "B10002",
+    "type": "Partner",
+    "color": [
+      "Blue"
+    ],
+    "cost": 0,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10002",
+        "type": "Partner",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10002.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10003": {
+    "id": "B10003",
+    "name": "B10003",
+    "type": "Character",
+    "color": [
+      "Blue"
+    ],
+    "cost": 8,
+    "rarity": "SR",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10003",
+        "type": "Character",
+        "cost": 8,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10003.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10004": {
+    "id": "B10004",
+    "name": "B10004",
+    "type": "Character",
+    "color": [
+      "Blue"
+    ],
+    "cost": 8,
+    "rarity": "R",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10004",
+        "type": "Character",
+        "cost": 8,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10004.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10005": {
+    "id": "B10005",
+    "name": "B10005",
+    "type": "Character",
+    "color": [
+      "Blue"
+    ],
+    "cost": 7,
+    "rarity": "R",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10005",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10005.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10006": {
+    "id": "B10006",
+    "name": "B10006",
+    "type": "Character",
+    "color": [
+      "Blue",
+      "Black"
+    ],
+    "cost": 7,
+    "rarity": "R",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10006",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10006.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10007": {
+    "id": "B10007",
+    "name": "B10007",
+    "type": "Character",
+    "color": [
+      "Blue"
+    ],
+    "cost": 7,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10007",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10007.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10008": {
+    "id": "B10008",
+    "name": "B10008",
+    "type": "Character",
+    "color": [
+      "Blue"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10008",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10008.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10009": {
+    "id": "B10009",
+    "name": "B10009",
+    "type": "Character",
+    "color": [
+      "Blue"
+    ],
+    "cost": 5,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10009",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10009.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10010": {
+    "id": "B10010",
+    "name": "B10010",
+    "type": "Character",
+    "color": [
+      "Blue"
+    ],
+    "cost": 4,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10010",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10010.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10011": {
+    "id": "B10011",
+    "name": "B10011",
+    "type": "Character",
+    "color": [
+      "Blue"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10011",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10011.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10012": {
+    "id": "B10012",
+    "name": "B10012",
+    "type": "Character",
+    "color": [
+      "Blue"
+    ],
+    "cost": 5,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10012",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10012.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10013": {
+    "id": "B10013",
+    "name": "B10013",
+    "type": "Character",
+    "color": [
+      "Blue"
+    ],
+    "cost": 6,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10013",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10013.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10014": {
+    "id": "B10014",
+    "name": "B10014",
+    "type": "Character",
+    "color": [
+      "Blue"
+    ],
+    "cost": 6,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10014",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10014.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10015": {
+    "id": "B10015",
+    "name": "B10015",
+    "type": "Character",
+    "color": [
+      "Blue"
+    ],
+    "cost": 6,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10015",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10015.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10016": {
+    "id": "B10016",
+    "name": "B10016",
+    "type": "Character",
+    "color": [
+      "Blue"
+    ],
+    "cost": 3,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10016",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10016.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10017": {
+    "id": "B10017",
+    "name": "B10017",
+    "type": "Event",
+    "color": [
+      "Blue"
+    ],
+    "cost": 6,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10017",
+        "type": "Event",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10017.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10018": {
+    "id": "B10018",
+    "name": "B10018",
+    "type": "Event",
+    "color": [
+      "Blue"
+    ],
+    "cost": 1,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10018",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10018.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10019": {
+    "id": "B10019",
+    "name": "B10019",
+    "type": "Case",
+    "color": [
+      "Blue"
+    ],
+    "cost": 0,
+    "rarity": "R",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10019",
+        "type": "Case",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10019.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10020": {
+    "id": "B10020",
+    "name": "B10020",
+    "type": "Partner",
+    "color": [
+      "Green"
+    ],
+    "cost": 0,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10020",
+        "type": "Partner",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10020.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10021": {
+    "id": "B10021",
+    "name": "B10021",
+    "type": "Character",
+    "color": [
+      "Green"
+    ],
+    "cost": 9,
+    "rarity": "MR",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10021",
+        "type": "Character",
+        "cost": 9,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10021.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10022": {
+    "id": "B10022",
+    "name": "B10022",
+    "type": "Character",
+    "color": [
+      "Green"
+    ],
+    "cost": 8,
+    "rarity": "SR",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10022",
+        "type": "Character",
+        "cost": 8,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10022.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10023": {
+    "id": "B10023",
+    "name": "B10023",
+    "type": "Character",
+    "color": [
+      "Green"
+    ],
+    "cost": 7,
+    "rarity": "R",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10023",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10023.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10024": {
+    "id": "B10024",
+    "name": "B10024",
+    "type": "Character",
+    "color": [
+      "Green"
+    ],
+    "cost": 8,
+    "rarity": "R",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10024",
+        "type": "Character",
+        "cost": 8,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10024.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10025": {
+    "id": "B10025",
+    "name": "B10025",
+    "type": "Character",
+    "color": [
+      "Green"
+    ],
+    "cost": 8,
+    "rarity": "R",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10025",
+        "type": "Character",
+        "cost": 8,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10025.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10026": {
+    "id": "B10026",
+    "name": "B10026",
+    "type": "Character",
+    "color": [
+      "Green"
+    ],
+    "cost": 6,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10026",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10026.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10027": {
+    "id": "B10027",
+    "name": "B10027",
+    "type": "Character",
+    "color": [
+      "Green"
+    ],
+    "cost": 5,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10027",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10027.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10028": {
+    "id": "B10028",
+    "name": "B10028",
+    "type": "Character",
+    "color": [
+      "Green"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10028",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10028.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10029": {
+    "id": "B10029",
+    "name": "B10029",
+    "type": "Character",
+    "color": [
+      "Green"
+    ],
+    "cost": 3,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10029",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10029.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10030": {
+    "id": "B10030",
+    "name": "B10030",
+    "type": "Character",
+    "color": [
+      "Green"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10030",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10030.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10031": {
+    "id": "B10031",
+    "name": "B10031",
+    "type": "Character",
+    "color": [
+      "Green"
+    ],
+    "cost": 5,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10031",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10031.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10032": {
+    "id": "B10032",
+    "name": "B10032",
+    "type": "Event",
+    "color": [
+      "Green"
+    ],
+    "cost": 6,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10032",
+        "type": "Event",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10032.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10033": {
+    "id": "B10033",
+    "name": "B10033",
+    "type": "Event",
+    "color": [
+      "Green"
+    ],
+    "cost": 7,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10033",
+        "type": "Event",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10033.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10034": {
+    "id": "B10034",
+    "name": "B10034",
+    "type": "Case",
+    "color": [
+      "Green"
+    ],
+    "cost": 0,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10034",
+        "type": "Case",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10034.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10035": {
+    "id": "B10035",
+    "name": "B10035",
+    "type": "Partner",
+    "color": [
+      "White"
+    ],
+    "cost": 0,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10035",
+        "type": "Partner",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10035.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10036": {
+    "id": "B10036",
+    "name": "B10036",
+    "type": "Character",
+    "color": [
+      "White"
+    ],
+    "cost": 6,
+    "rarity": "SR",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10036",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10036.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10037": {
+    "id": "B10037",
+    "name": "B10037",
+    "type": "Character",
+    "color": [
+      "White"
+    ],
+    "cost": 7,
+    "rarity": "R",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10037",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10037.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10038": {
+    "id": "B10038",
+    "name": "B10038",
+    "type": "Character",
+    "color": [
+      "White"
+    ],
+    "cost": 8,
+    "rarity": "R",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10038",
+        "type": "Character",
+        "cost": 8,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10038.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10039": {
+    "id": "B10039",
+    "name": "B10039",
+    "type": "Character",
+    "color": [
+      "White"
+    ],
+    "cost": 4,
+    "rarity": "R",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10039",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10039.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10040": {
+    "id": "B10040",
+    "name": "B10040",
+    "type": "Character",
+    "color": [
+      "White"
+    ],
+    "cost": 4,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10040",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10040.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10041": {
+    "id": "B10041",
+    "name": "B10041",
+    "type": "Character",
+    "color": [
+      "White"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10041",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10041.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10042": {
+    "id": "B10042",
+    "name": "B10042",
+    "type": "Character",
+    "color": [
+      "White"
+    ],
+    "cost": 4,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10042",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10042.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10043": {
+    "id": "B10043",
+    "name": "B10043",
+    "type": "Character",
+    "color": [
+      "White"
+    ],
+    "cost": 6,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10043",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10043.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10044": {
+    "id": "B10044",
+    "name": "B10044",
+    "type": "Character",
+    "color": [
+      "White"
+    ],
+    "cost": 6,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10044",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10044.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10045": {
+    "id": "B10045",
+    "name": "B10045",
+    "type": "Character",
+    "color": [
+      "White"
+    ],
+    "cost": 3,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10045",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10045.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10046": {
+    "id": "B10046",
+    "name": "B10046",
+    "type": "Character",
+    "color": [
+      "White"
+    ],
+    "cost": 4,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10046",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10046.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10047": {
+    "id": "B10047",
+    "name": "B10047",
+    "type": "Character",
+    "color": [
+      "White"
+    ],
+    "cost": 5,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10047",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10047.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10048": {
+    "id": "B10048",
+    "name": "B10048",
+    "type": "Event",
+    "color": [
+      "White"
+    ],
+    "cost": 5,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10048",
+        "type": "Event",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10048.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10049": {
+    "id": "B10049",
+    "name": "B10049",
+    "type": "Partner",
+    "color": [
+      "Red"
+    ],
+    "cost": 0,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10049",
+        "type": "Partner",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10049.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10050": {
+    "id": "B10050",
+    "name": "B10050",
+    "type": "Character",
+    "color": [
+      "Red"
+    ],
+    "cost": 8,
+    "rarity": "SR",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10050",
+        "type": "Character",
+        "cost": 8,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10050.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10051": {
+    "id": "B10051",
+    "name": "B10051",
+    "type": "Character",
+    "color": [
+      "Red"
+    ],
+    "cost": 7,
+    "rarity": "R",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10051",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10051.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10052": {
+    "id": "B10052",
+    "name": "B10052",
+    "type": "Character",
+    "color": [
+      "Red"
+    ],
+    "cost": 8,
+    "rarity": "R",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10052",
+        "type": "Character",
+        "cost": 8,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10052.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10053": {
+    "id": "B10053",
+    "name": "B10053",
+    "type": "Character",
+    "color": [
+      "Red"
+    ],
+    "cost": 7,
+    "rarity": "R",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10053",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10053.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10054": {
+    "id": "B10054",
+    "name": "B10054",
+    "type": "Character",
+    "color": [
+      "Red"
+    ],
+    "cost": 4,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10054",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10054.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10055": {
+    "id": "B10055",
+    "name": "B10055",
+    "type": "Character",
+    "color": [
+      "Red"
+    ],
+    "cost": 6,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10055",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10055.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10056": {
+    "id": "B10056",
+    "name": "B10056",
+    "type": "Character",
+    "color": [
+      "Red"
+    ],
+    "cost": 4,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10056",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10056.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10057": {
+    "id": "B10057",
+    "name": "B10057",
+    "type": "Character",
+    "color": [
+      "Red"
+    ],
+    "cost": 6,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10057",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10057.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10058": {
+    "id": "B10058",
+    "name": "B10058",
+    "type": "Character",
+    "color": [
+      "Red"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10058",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10058.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10059": {
+    "id": "B10059",
+    "name": "B10059",
+    "type": "Character",
+    "color": [
+      "Red"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10059",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10059.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10060": {
+    "id": "B10060",
+    "name": "B10060",
+    "type": "Event",
+    "color": [
+      "Red"
+    ],
+    "cost": 7,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10060",
+        "type": "Event",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10060.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10061": {
+    "id": "B10061",
+    "name": "B10061",
+    "type": "Case",
+    "color": [
+      "Red"
+    ],
+    "cost": 0,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10061",
+        "type": "Case",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10061.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10062": {
+    "id": "B10062",
+    "name": "",
+    "type": "",
+    "color": [],
+    "cost": 0,
+    "rarity": "",
+    "package": []
+  },
+  "B10063": {
+    "id": "B10063",
+    "name": "B10063",
+    "type": "Partner",
+    "color": [
+      "Yellow"
+    ],
+    "cost": 0,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10063",
+        "type": "Partner",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10063.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10064": {
+    "id": "B10064",
+    "name": "B10064",
+    "type": "Partner",
+    "color": [
+      "Yellow"
+    ],
+    "cost": 0,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10064",
+        "type": "Partner",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10064.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10065": {
+    "id": "B10065",
+    "name": "B10065",
+    "type": "Character",
+    "color": [
+      "Yellow"
+    ],
+    "cost": 9,
+    "rarity": "MR",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10065",
+        "type": "Character",
+        "cost": 9,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10065.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10066": {
+    "id": "B10066",
+    "name": "B10066",
+    "type": "Character",
+    "color": [
+      "Yellow"
+    ],
+    "cost": 8,
+    "rarity": "SR",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10066",
+        "type": "Character",
+        "cost": 8,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10066.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10067": {
+    "id": "B10067",
+    "name": "B10067",
+    "type": "Character",
+    "color": [
+      "Yellow"
+    ],
+    "cost": 7,
+    "rarity": "SR",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10067",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10067.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10068": {
+    "id": "B10068",
+    "name": "B10068",
+    "type": "Character",
+    "color": [
+      "Yellow"
+    ],
+    "cost": 8,
+    "rarity": "SR",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10068",
+        "type": "Character",
+        "cost": 8,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10068.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10069": {
+    "id": "B10069",
+    "name": "B10069",
+    "type": "Character",
+    "color": [
+      "Yellow"
+    ],
+    "cost": 8,
+    "rarity": "R",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10069",
+        "type": "Character",
+        "cost": 8,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10069.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10070": {
+    "id": "B10070",
+    "name": "B10070",
+    "type": "Character",
+    "color": [
+      "Yellow"
+    ],
+    "cost": 7,
+    "rarity": "R",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10070",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10070.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10071": {
+    "id": "B10071",
+    "name": "B10071",
+    "type": "Character",
+    "color": [
+      "Yellow"
+    ],
+    "cost": 8,
+    "rarity": "R",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10071",
+        "type": "Character",
+        "cost": 8,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10071.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10072": {
+    "id": "B10072",
+    "name": "B10072",
+    "type": "Character",
+    "color": [
+      "Yellow"
+    ],
+    "cost": 3,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10072",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10072.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10073": {
+    "id": "B10073",
+    "name": "B10073",
+    "type": "Character",
+    "color": [
+      "Yellow"
+    ],
+    "cost": 3,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10073",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10073.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10074": {
+    "id": "B10074",
+    "name": "B10074",
+    "type": "Character",
+    "color": [
+      "Yellow"
+    ],
+    "cost": 7,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10074",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10074.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10075": {
+    "id": "B10075",
+    "name": "B10075",
+    "type": "Character",
+    "color": [
+      "Yellow"
+    ],
+    "cost": 6,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10075",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10075.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10076": {
+    "id": "B10076",
+    "name": "B10076",
+    "type": "Character",
+    "color": [
+      "Yellow"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10076",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10076.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10077": {
+    "id": "B10077",
+    "name": "B10077",
+    "type": "Character",
+    "color": [
+      "Yellow"
+    ],
+    "cost": 4,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10077",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10077.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10078": {
+    "id": "B10078",
+    "name": "B10078",
+    "type": "Character",
+    "color": [
+      "Yellow"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10078",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10078.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10079": {
+    "id": "B10079",
+    "name": "B10079",
+    "type": "Character",
+    "color": [
+      "Yellow"
+    ],
+    "cost": 5,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10079",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10079.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10080": {
+    "id": "B10080",
+    "name": "B10080",
+    "type": "Character",
+    "color": [
+      "Yellow"
+    ],
+    "cost": 3,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10080",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10080.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10081": {
+    "id": "B10081",
+    "name": "B10081",
+    "type": "Event",
+    "color": [
+      "Yellow"
+    ],
+    "cost": 6,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10081",
+        "type": "Event",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10081.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10082": {
+    "id": "B10082",
+    "name": "B10082",
+    "type": "Case",
+    "color": [
+      "Yellow"
+    ],
+    "cost": 0,
+    "rarity": "R",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10082",
+        "type": "Case",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10082.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10083": {
+    "id": "B10083",
+    "name": "B10083",
+    "type": "Case",
+    "color": [
+      "Yellow"
+    ],
+    "cost": 0,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10083",
+        "type": "Case",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10083.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10084": {
+    "id": "B10084",
+    "name": "B10084",
+    "type": "Partner",
+    "color": [
+      "Black"
+    ],
+    "cost": 0,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10084",
+        "type": "Partner",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10084.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10085": {
+    "id": "B10085",
+    "name": "B10085",
+    "type": "Character",
+    "color": [
+      "Black"
+    ],
+    "cost": 9,
+    "rarity": "MR",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10085",
+        "type": "Character",
+        "cost": 9,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10085.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10086": {
+    "id": "B10086",
+    "name": "B10086",
+    "type": "Character",
+    "color": [
+      "Black"
+    ],
+    "cost": 8,
+    "rarity": "SR",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10086",
+        "type": "Character",
+        "cost": 8,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10086.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10087": {
+    "id": "B10087",
+    "name": "B10087",
+    "type": "Character",
+    "color": [
+      "Black"
+    ],
+    "cost": 8,
+    "rarity": "R",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10087",
+        "type": "Character",
+        "cost": 8,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10087.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10088": {
+    "id": "B10088",
+    "name": "B10088",
+    "type": "Character",
+    "color": [
+      "Black"
+    ],
+    "cost": 7,
+    "rarity": "R",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10088",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10088.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10089": {
+    "id": "B10089",
+    "name": "B10089",
+    "type": "Character",
+    "color": [
+      "Black"
+    ],
+    "cost": 6,
+    "rarity": "R",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10089",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10089.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10090": {
+    "id": "B10090",
+    "name": "B10090",
+    "type": "Character",
+    "color": [
+      "Black"
+    ],
+    "cost": 5,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10090",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10090.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10091": {
+    "id": "B10091",
+    "name": "B10091",
+    "type": "Character",
+    "color": [
+      "Black"
+    ],
+    "cost": 7,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10091",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10091.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10092": {
+    "id": "B10092",
+    "name": "B10092",
+    "type": "Character",
+    "color": [
+      "Black"
+    ],
+    "cost": 2,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10092",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10092.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10093": {
+    "id": "B10093",
+    "name": "B10093",
+    "type": "Character",
+    "color": [
+      "Blue",
+      "Black"
+    ],
+    "cost": 4,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10093",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10093.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10094": {
+    "id": "B10094",
+    "name": "B10094",
+    "type": "Character",
+    "color": [
+      "Black"
+    ],
+    "cost": 4,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10094",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10094.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10095": {
+    "id": "B10095",
+    "name": "B10095",
+    "type": "Character",
+    "color": [
+      "Black"
+    ],
+    "cost": 6,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10095",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10095.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10096": {
+    "id": "B10096",
+    "name": "B10096",
+    "type": "Event",
+    "color": [
+      "Black"
+    ],
+    "cost": 6,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10096",
+        "type": "Event",
+        "cost": 6,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10096.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10097": {
+    "id": "B10097",
+    "name": "B10097",
+    "type": "Character",
+    "color": [
+      "Blue",
+      "Black"
+    ],
+    "cost": 9,
+    "rarity": "MR",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10097",
+        "type": "Character",
+        "cost": 9,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10097.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10098": {
+    "id": "B10098",
+    "name": "B10098",
+    "type": "Character",
+    "color": [
+      "Green",
+      "White"
+    ],
+    "cost": 9,
+    "rarity": "MR",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10098",
+        "type": "Character",
+        "cost": 9,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10098.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10099": {
+    "id": "B10099",
+    "name": "B10099",
+    "type": "Character",
+    "color": [
+      "Red",
+      "Yellow"
+    ],
+    "cost": 9,
+    "rarity": "MR",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10099",
+        "type": "Character",
+        "cost": 9,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10099.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10100": {
+    "id": "B10100",
+    "name": "B10100",
+    "type": "Case",
+    "color": [
+      "Blue",
+      "Black"
+    ],
+    "cost": 0,
+    "rarity": "R",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10100",
+        "type": "Case",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10100.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10101": {
+    "id": "B10101",
+    "name": "B10101",
+    "type": "Case",
+    "color": [
+      "Green",
+      "White"
+    ],
+    "cost": 0,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10101",
+        "type": "Case",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10101.jpg",
+        "subImage": ""
+      }
+    }
+  },
+  "B10102": {
+    "id": "B10102",
+    "name": "B10102",
+    "type": "Case",
+    "color": [
+      "Red",
+      "Yellow"
+    ],
+    "cost": 0,
+    "rarity": "C",
+    "package": [
+      "CT-P10"
+    ],
+    "face": {
+      "front": {
+        "name": "B10102",
+        "type": "Case",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/conantcgfans/TCG-Arena-DetectiveConan/main/Images/B10102.jpg",
+        "subImage": ""
+      }
+    }
+  },
   "D10026": {
     "id": "D10026",
     "name": "The Black Knight D10026",
